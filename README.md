@@ -1,2 +1,2 @@
-# midi_microcontroller
-Series of midi microcontroller
+# Midi Microcontroller
+Series of midi microcontroller implementations
